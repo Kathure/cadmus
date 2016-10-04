@@ -62,3 +62,24 @@ h6 {
 ::-webkit-resizer {
     display: none;
 }
+#kuhusu {
+    margin: 10%;
+}
+#huduma {
+    background-color: #59114D;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#huduma p {
+    color: #C6B89E;
+}
+#huduma h1 {
+    color: #C6B89E;
+}
+#contact {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#footer {
+    padding: 3%;
+}
